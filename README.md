@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Imran
 #### I am Student, Game Developer
-![I am Student, Game Developer]
+
 
 I'm Imran from Turkey, I'm a 3rd year computer engineering student and I work in a mobile game programming company. I love playing and developing games.
 
