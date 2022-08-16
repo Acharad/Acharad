@@ -2,7 +2,7 @@
 #### I am Student, Game Developer
 
 
-I'm Imran from Turkey, I'm a 3rd year computer engineering student and I work in a mobile game development company. I love playing and developing games.
+I'm Imran from Turkey, a 3rd year computer engineering student and working in a mobile game development company. I love to play and develop games.
 
 [<img src='https://i.hizliresim.com/nya4qfe.png' alt='C' height='60'>](https://www.linkedin.com/in/ahmet-imran-kavra%C5%9F-17907721a/) [<img src='https://i.hizliresim.com/l0bhjc2.png' alt='C#' height='60'>](https://www.linkedin.com/in/ahmet-imran-kavra%C5%9F-17907721a/) [<img src='https://i.hizliresim.com/sc11avk.png' alt='Unity' height='60'>](https://www.linkedin.com/in/ahmet-imran-kavra%C5%9F-17907721a/)
 
