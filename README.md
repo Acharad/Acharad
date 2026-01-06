@@ -1,3 +1,3 @@
 ### Hi there 👋, my name is Imran
-#### I am Game Developer
+#### I am Software Engineer
 
